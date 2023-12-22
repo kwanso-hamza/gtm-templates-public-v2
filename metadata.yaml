@@ -1,0 +1,13 @@
+homepage: "https://kwanso.com/"
+documentation: "https://github.com/kwanso-hamza/gtm-templates-public-v2.git"
+versions:
+  # Latest version
+  - sha: 392ff4ed1d2a6924042efb0f7393e3a1d2e071c9
+    changeNotes: Update template metadata.
+  # Older versions
+  - sha: ff7bf31a0777e22a370d6371607022fe2a6d1b7c
+    changeNotes: |2
+      Add support for "consent" command.
+      Add support for using a variable to populate object properties.
+  - sha: e1206f9c677fe67348c6678c4669952cb0c0b97b
+    changeNotes: Initial release.
